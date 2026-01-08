@@ -1,0 +1,28 @@
+{
+  "name": "cloudflare-email-batch-manager",
+  "version": "1.0.0",
+  "description": "Batch manage Cloudflare Email Routing rules - create and delete hundreds of email forwarding rules",
+  "main": "batch-email-manager.js",
+  "type": "module",
+  "scripts": {
+    "test:add": "node test-add-rules.js",
+    "test:delete": "node test-delete-rules.js"
+  },
+  "keywords": [
+    "cloudflare",
+    "email",
+    "routing",
+    "automation",
+    "batch",
+    "forwarding"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ban-shao/cloudflare-email-batch-manager.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

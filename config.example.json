@@ -1,0 +1,8 @@
+{
+  "ACCOUNT_ID": "your_cloudflare_account_id",
+  "ZONE_ID": "your_domain_zone_id",
+  "API_EMAIL": "your_cloudflare_login_email@example.com",
+  "API_KEY": "your_global_api_key",
+  "DOMAIN": "your-domain.com",
+  "DESTINATION_EMAIL": "your-destination@gmail.com"
+}
